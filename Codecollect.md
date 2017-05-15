@@ -9,8 +9,9 @@
 - []()
 - []()
        
-   
-     
 
+ctrl alt +o 浏览器查看   
+0.1负责表示刷新间隔，单位是秒
+<meta http-equiv="refresh" content="0.1">
 
 
